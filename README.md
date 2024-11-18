@@ -1,6 +1,6 @@
 # Expense Tracker
 
-[Visit the site](https://dhirajkr08.github.io/ExpenseTracker/)
+[Visit the site](https://singhscriptor.github.io/ExpenseTracker/)
 
 ## Overview
 
